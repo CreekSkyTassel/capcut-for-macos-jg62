@@ -1,4 +1,4 @@
-
+top Adobe Spark for macOS Helper | raw-file-support + color-correction is the best Adobe Spark for macOS helper, featuring raw-file-support and color-correction. Powerful,
 
 
 
